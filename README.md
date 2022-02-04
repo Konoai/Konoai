@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Konoai
 - 👀 I’m interested in Drawing and gaming
 - 🌱 I’m currently learning the perfect golden ratio 
-- 🍣 collaborate with @simtoh8
-- 📫 How to reach me You don't reach simtoh8 at simtohgg@gmail.com
+- 🍣 collaborate with @SigmaWorker
+- 📫 How to reach me you don't reach SigmaWorker at SigmaWorkergithub@gmail.com
 
 <!---
 Konoai/Konoai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
